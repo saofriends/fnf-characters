@@ -1,0 +1,5 @@
+User-agent: *
+Allow: 
+
+Sitemap: https://fnf-characters.herokuapp.com/host-https-answerdiary.com/post-sitemap.xml
+Sitemap: https://fnf-characters.herokuapp.com/sitemap.xml
